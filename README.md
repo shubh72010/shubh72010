@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shubh72010
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning coding
