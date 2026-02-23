@@ -29,7 +29,7 @@ I don’t follow hype—I **set it**. 🔥
 
 ## 🔥 Experience & Movements
 
-- **Founder & Owner @ Zeta HS** — 560+ active members.  
+- **Founder & Owner @ Zeta HS** — 700+ active members.  
 - **Movement Leader @ #ROLLITBACK NOTHING** — 600+ signees, full PR control.  
 - **Moderator @ Green Goblins** — trusted moderator for **Parker Burton**’s server.  
 - **Design Lead** — steering hardware & poster teams (13 members total).  
@@ -49,9 +49,7 @@ I don’t follow hype—I **set it**. 🔥
 <div align="center">
   
 ## 🎨 Sneak Peek of My Designs
-*(Full portfolio has high-res visuals)*
 
-**[ Nothing Headphone ]** ⸻ **[ iPhone 6s UI ]** ⸻ **[ RedMagic II Pro ]**
 
 ### Let’s Build Something Beautiful
 *Open to collaborations, community management, and design projects.*
