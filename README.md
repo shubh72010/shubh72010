@@ -1,92 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=FLAKESOFSMTH&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" width="100%"/>
 
-<br/>
+# ⚡ FLAKESOFSMTH ⚡
 
-<a href="https://shubh72010.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+DON'T+WAIT+FOR+PERMISSION.;I+LEARN+BY+DOING.;SCALING+COMMUNITIES.;SHAPING+PRODUCTS." alt="Typing SVG" />
-</a>
+<a href="https://shubh72010.github.io/portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+don't+wait+for+permission;I+learn+by+doing;Product+Designer;Community+Manager" alt="Typing SVG" /></a>
 
-<br/>
+<br>
 
-<p align="center">
-  <a href="https://shubh72010.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/EXECUTE_PORTFOLIO-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/zeta.designers">
-    <img src="https://img.shields.io/badge/FOLLOW_ZETA-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:flakesofsmth@gmail.com">
-    <img src="https://img.shields.io/badge/INITIATE_CONTACT-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0D1117?style=for-the-badge&logo=About.me&logoColor=white)](https://shubh72010.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-@zeta.designers-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeta.designers)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flakesofsmth@gmail.com)
+
+<br>
+
+### 🚀 Who I Am
+I’m a student who **builds, leads, and shapes trends**. <br> 
+While others are still figuring out school, I’ve already managed online communities, <br>shipped AI projects, and driven product/hardware collabs. <br>
+**I don’t follow hype—I set it.** 🔥
+
+<br>
+</div>
 
 ---
 
-<table border="0">
+<div align="center">
+  
+## 🧠 The Arsenal
+
+<table>
   <tr>
-    <td width="60%">
-      <h1>⚡ THE MANIFESTO</h1>
-      <p>I’m a student who <b>builds, leads, and breaks boundaries</b>. While the world waits for instructions, I ship. From managing massive digital ecosystems to conceptualizing the next generation of hardware, I don't follow trends—<b>I architect them.</b></p>
-      <p><i>"Complexity is my playground; simplicity is my goal."</i></p>
+    <td align="center" width="25%">
+      <h3>🤝<br>Community</h3>
+      <p>Building, scaling & moderating massive online spaces.</p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh72010&theme=transparent" width="100%"/>
+    <td align="center" width="25%">
+      <h3>📣<br>PR & Comms</h3>
+      <p>Driving narrative, user interaction, & backlash control.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🎨<br>Design</h3>
+      <p>Sleek posters, killer ads, and UI/hardware aesthetics.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>👑<br>Leadership</h3>
+      <p>Leading teams across strategy, design, and tech.</p>
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ CORE DOMAINS
-
-| [ 🤝 ] COMMUNITY ARCHITECTURE | [ 📣 ] NARRATIVE CONTROL | [ 🎨 ] VISUAL IDENTITY | [ 👑 ] STRATEGIC LEAD {13} |
-| :--- | :--- | :--- | :--- |
-| Scaling 700+ member ecosystems. | PR crisis management & high-stakes engagement. | Minimalist hardware & industrial UI design. | Steering multi-disciplinary design teams. |
+</div>
 
 ---
 
-## 🔥 THE RECORD
+## 🔥 Experience & Movements
 
-### 🟢 FOUNDER & OWNER • [ZETA HS]
-> **Orchestrated** a premiere Discord design hub. **Scaled** to 700+ active creators. Built the infrastructure from zero.
-
-### 🌪️ MOVEMENT LEADER • [#ROLLITBACK NOTHING]
-> **Mobilized** 600+ signees. **Executed** full-spectrum PR dynamics. Controlled the narrative during peak community friction. **No folding.**
-
-### 🛡️ ELITE MODERATOR • [GREEN GOBLINS]
-> **Operational** authority in Parker Burton’s (YouTube) tech community. Managing chaos with surgical precision.
-
----
-
-## 🏆 ARCHIEVEMENTS & STATUS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubh72010&theme=darkhub&no-bg=true&column=4" width="100%" />
-</p>
+> 🟢 **Founder & Owner @ Zeta HS** <br>
+> *Scaled a custom design ecosystem to 700+ active members.*
+> 
+> 🌪️ **Movement Leader @ #ROLLITBACK NOTHING** <br>
+> *Mobilized 600+ signees, owning full PR control and narrative direction.*
+> 
+> 🛡️ **Moderator @ Green Goblins** <br>
+> *Trusted moderation and community management for Parker Burton’s server.*
+> 
+> 🎨 **Design Lead** <br>
+> *Steering hardware & poster teams (13 members total) to ship visual assets.*
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## ⚡ The Differentiator
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh72010&show_icons=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh72010&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&sideLabels=aaaaaa&dates=aaaaaa" width="48%" />
-</p>
+- **`01` Execution > Theory** — I don't just talk about it, I build it.
+- **`02` Diamond Under Pressure** — PR crises and backlash handled seamlessly.
+- **`03` Relentless Adaptation** — I learn fast, adapt instantly, and ship flawlessly.
 
 ---
 
 <div align="center">
 
-## 🎨 RECENT BLUEPRINTS
-**[ NOTHING HEADPHONE ] • [ iPHONE 6s UI ] • [ REDMAGIC II PRO ]**
+## 📊 The Stats
 
-<br/>
+<a href="https://github.com/shubh72010">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh72010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</a>
+<a href="https://github.com/shubh72010">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh72010&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</a>
 
-### "LEAVE A MARK, NOT JUST A FOOTPRINT."
-*Available for high-impact collaborations and design ops.*
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&fontSize=20" width="100%"/>
+## 🎨 Visuals & Designs
+*(Hit the banners below to see the full portfolio)*
+
+[![Nothing](https://img.shields.io/badge/Project_01-Nothing_Headphone-0D1117?style=for-the-badge&logoColor=white)](https://shubh72010.github.io/portfolio/) &nbsp; [![iPhone](https://img.shields.io/badge/Project_02-iPhone_6s_UI-0D1117?style=for-the-badge&logoColor=white)](https://shubh72010.github.io/portfolio/) &nbsp; [![RedMagic](https://img.shields.io/badge/Project_03-RedMagic_II_Pro-0D1117?style=for-the-badge&logoColor=white)](https://shubh72010.github.io/portfolio/)
+
+### Let’s Build Something Beautiful.
+*Open to collabs, community building, and design ops.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
 
 </div>
