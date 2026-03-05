@@ -82,9 +82,6 @@ While others are still figuring out school, I’ve already managed online commun
 ## 📊 The Stats
 
 <a href="https://github.com/shubh72010">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh72010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/shubh72010">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh72010&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </a>
 
